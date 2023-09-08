@@ -26,7 +26,7 @@ This repository contains files for UT DAV Bootcamp Module 13 Mini-Project ETL
   * campaign.csv contains the table of campaigns created from crowdfunding.xlsx to be uploaded into the database
   * contacts.csv contains the table of contacts created from contacts.xlsx to be uploaded into the database  
 * images folder contains the ERD image as well as images from queries completed in pgAdmin / postgreSQL
-  * ERD ![ERD](./images/crowdfunding_db_schema.png)
+  * ERD <br> ![ERD](./images/crowdfunding_db_schema.png)
   * category import ![category import](./images/category_pgAdmin.png) 
   * subcategory import ![subcategory import](./images/subcategory_pgAdmin.png)
   * contacts import ![contacts import](./images/contacts_pgAdmin.png)
@@ -34,7 +34,8 @@ This repository contains files for UT DAV Bootcamp Module 13 Mini-Project ETL
     
 
 # References
-* ...
+* ERD created using Quick DB Diagrams online tool: https://www.quickdatabasediagrams.com/
+* Starting .xlsx files downloaded from BCS Project 2 Module
  
 
 # Getting Started
